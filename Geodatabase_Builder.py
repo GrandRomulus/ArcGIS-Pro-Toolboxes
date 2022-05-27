@@ -1,15 +1,15 @@
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
-# Geodatabase_Builder_DrChris.py
+# Geodatabase_Builder.py
 # Version: 0.1
-# Date:
+# Date: 27/05/2022
 # Original Author:
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
 #
 # This code is called by ArcGIS Pro and allow you create 1 to 10X Geodatabases
 
-# Import the libraries you will need
+# Import statements
 import os, arcpy
 def gdbbuilder(gdbnames):
     """
