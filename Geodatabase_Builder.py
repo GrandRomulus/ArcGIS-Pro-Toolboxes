@@ -2,11 +2,11 @@
 # --------------------------------------------------------------------------
 # Geodatabase_Builder.py
 # Version: 0.1
-# Date: 27/05/2022
+# Date: 
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
 #
-# This code is called by ArcGIS Pro and allow you create 1 to 10X Geodatabases
+# This code is called by ArcGIS Pro and allow you create 1 to 10x Geodatabases
 
 # Import statements
 import os, arcpy
