@@ -1,5 +1,15 @@
 # -*- coding: utf-8 -*-
 
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+# Clip_Attribute_Export.py
+# Version: 0.1
+# Date: 
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+#
+# This Python toolbox is called by ArcGIS Pro and simultaneously clips and exports clipped table as an excel file
+
 import arcpy
 
 class Toolbox(object):
