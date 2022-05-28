@@ -1,1 +1,1 @@
-# A portfolio showing Python scripts created and used in ArcGIS Pro Toolboxes
+# A portfolio showing Python scripts and Python toolboxes created and used in ArcGIS Pro 
